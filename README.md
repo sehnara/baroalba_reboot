@@ -1,6 +1,6 @@
 # 바로알바
 ## Contributor
-- @gsh723@naver.com (강세훈)
+- @sehnara (강세훈)
 
 ## Description
 - '구인난' 문제 해결을 위해 1시간 단위 아르바이트 모집 방식 제시 
