@@ -1,6 +1,6 @@
 # 바로알바
 ## Contributor
-- @sehnara (강세훈)
+- @ sehnara (강세훈)
 
 ## Description
 - '구인난' 문제 해결을 위해 1시간 단위 아르바이트 모집 방식 제시 
@@ -13,7 +13,7 @@
 ## Schedule
 ||1|2|3|4|
 |---|---|---|---|---|
-|9월6일|폴더구조|문서화|||
+|9월6일|라이브러리 설치|문서화|eslint|prettier||
 |9월7일|||||
 |9월8일|||||
 
@@ -22,7 +22,7 @@
 - TypeScript
 - Storybook
 - ESLint
-- Babel 설정 (IE 11 대응)
+- Prettier
 
 ## Script
 ```
@@ -36,5 +36,13 @@ $ npm run storybook
 ```
 
 ## Test
-- Jest
-- npm run test
+```
+$ npm run test
+```
+
+## Prettier
+해당 경로의 파일의 문법을 수정하고자 할 때 사용
+
+```
+$ npx prettier --write [file path]
+```
